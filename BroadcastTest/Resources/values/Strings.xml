@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">BroadcastTest</string>
+	<string name="switch_widget">Switch Widget</string>
+	<string name="wifi_switch">Wifi Enabled</string>
+</resources>
